@@ -1,0 +1,35 @@
+.hlavní{
+    text-align: center;
+    color: darkblue;
+}
+.texthlavní{
+    color: blue;
+}
+.galerie{
+    text-align: center;
+    color: cornflowerblue;
+}
+.textgalerie{
+    color: steelblue;
+}
+.články{
+    text-align: center;
+    color: crimson;
+}
+.textčlánky{
+    color: darkred;
+}
+.onas{
+    text-align: center;
+    color: green;
+}
+.textonas{
+    color: chartreuse;
+}
+.kontakty{
+    text-align: center;
+    color: slateblue;
+}
+.textkontakty{
+    color: plum;
+}
